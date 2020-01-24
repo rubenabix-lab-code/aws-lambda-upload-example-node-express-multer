@@ -15,4 +15,6 @@ curl --location --request POST 'https://ddvvkx2qfl.execute-api.us-east-1.amazona
 --form 'image=@/Users/rub/Downloads/msg-1-fc-40.jpg'
 
 Postman Example
+![screen shot](https://github.com/rubenabix-lab-code/aws-lambda-upload-example-node-express-multer/blob/master/Screen%20Shot%202020-01-24%20at%2011.20.52.png)
+
 
